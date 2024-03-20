@@ -1,5 +1,4 @@
-# CS117EX1
-Solutions to Quartic Equations
+# Solutions to Quartic Equations
 
 Consider the quartic equation
 
